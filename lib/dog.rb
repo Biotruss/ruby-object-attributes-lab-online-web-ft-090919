@@ -5,4 +5,5 @@ class Dog
   def name
     @new_dog_name
   end
+  def 
 end
